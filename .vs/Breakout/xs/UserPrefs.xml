@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E5C00A68-E6DB-FEA3-938C-F34D364EA738}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BoxInit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controller.cs" Line="19" Column="60" />
+      <File FileName="Assets/Scripts/StartShot.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/BoxInit.cs" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
